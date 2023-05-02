@@ -1,5 +1,5 @@
 # Debt Ceiling Instant Access Module
-![Build Status](https://github.com/indefibank/dss-auto-line/actions/workflows/.github/workflows/tests.yaml/badge.svg?branch=master)
+[![.github/workflows/tests.yaml](https://github.com/indefibank/dss-auto-line/actions/workflows/tests.yaml/badge.svg?branch=master)](https://github.com/indefibank/dss-auto-line/actions/workflows/tests.yaml)
 
 Automatic debt ceiling adjustments
 
